@@ -1,0 +1,10 @@
+Package: homeworkTemplate
+Type: Package
+Title: Template for my homework
+Version: 0.1.0
+Authors@R: person("Carl","Ganz",email="carlganz@gmail.com",role=c("aut","cre"))
+Description: A R markdown template for my homework.
+License: GPL-3
+Imports: rmarkdown
+LazyData: TRUE
+RoxygenNote: 5.0.1
